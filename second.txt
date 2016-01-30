@@ -1,1 +1,2 @@
 first line by master branch in gitHub
+Second line by master in second.txt
